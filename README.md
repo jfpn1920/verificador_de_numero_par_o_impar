@@ -4,7 +4,9 @@
 <p style="text-align: justify;">
 
 Este proyecto consiste en el desarrollo de un **verificador de números pares o impares en consola** utilizando Python. El programa solicita al usuario un número entero, valida la entrada y determina si el valor ingresado es **par o impar**, mostrando un mensaje claro con el resultado.
+
 El sistema está diseñado para evitar errores comunes, como el ingreso de valores no numéricos, asegurando así un funcionamiento correcto y comprensible para el usuario.
+
 El objetivo principal del proyecto es **reforzar el uso de operadores lógicos, condicionales y entrada de datos**, aplicando una lógica sencilla y estructurada.
 
 #

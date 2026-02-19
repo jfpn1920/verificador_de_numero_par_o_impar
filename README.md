@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de un **verificador de números pares o 
 
 El sistema está diseñado para prevenir errores comunes durante la ejecución, como el ingreso de caracteres no numéricos o valores inválidos. Para ello, se implementan validaciones que permiten asegurar que el dato ingresado sea correcto antes de realizar la operación, garantizando un funcionamiento estable y una mejor experiencia para el usuario.
 
-El objetivo principal del proyecto es reforzar los fundamentos de programación en Python, aplicando operadores lógicos, condicionales y entrada de datos desde la consola. Asimismo, se utiliza una lógica sencilla y estructurada que facilita la comprensión del código y sirve como base para proyectos más avanzados.
+El objetivo principal del proyecto es reforzar los fundamentos de programación en Python, aplicando operadores lógicos, condicionales y entrada de datos.
 
 #
 ### 🧑‍💻 Lenguaje de programación

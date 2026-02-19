@@ -5,9 +5,7 @@
 
 Este proyecto consiste en el desarrollo de un **verificador de números pares o impares en consola** utilizando Python, orientado a la identificación correcta de un número entero ingresado por el usuario. El programa solicita el valor mediante teclado, realiza una validación básica de la entrada y determina si el número es **par o impar**, mostrando un mensaje claro y comprensible con el resultado obtenido.
 
-El sistema está diseñado para prevenir errores comunes durante la ejecución, como el ingreso de caracteres no numéricos o valores inválidos. Para ello, se implementan validaciones que permiten asegurar que el dato ingresado sea correcto antes de realizar la operación, garantizando un funcionamiento estable y una mejor experiencia para el usuario.
-
-El objetivo principal del proyecto es reforzar los fundamentos de programación en Python, aplicando operadores lógicos, condicionales y entrada de datos.
+El sistema está diseñado para prevenir errores comunes durante la ejecución, como el ingreso de caracteres no numéricos o valores inválidos. Para ello, se implementan validaciones que permiten asegurar que el dato ingresado sea correcto antes de realizar la operación, garantizando un funcionamiento estable y una mejor experiencia para el usuario. El objetivo principal del proyecto es reforzar los fundamentos de programación en Python, aplicando operadores lógicos, condicionales y entrada de datos.
 
 #
 ### 🧑‍💻 Lenguaje de programación

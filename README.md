@@ -1,0 +1,1 @@
+# verificador_de_numero_par_o_impar_con_python
